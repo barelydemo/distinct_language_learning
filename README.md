@@ -1,4 +1,4 @@
-# Lexical: Lost in Japan
+# Lexical : language learning game
 
 **Lexical** is a voice-first visual novel for learning Japanese through conversation.
 
